@@ -1,4 +1,4 @@
-<h1 align="center">riptografando-Descriptografando</h1>
+<h1 align="center">Criptografando-Descriptografando</h1>
 
 <h2>Projeto desenvolvido em Vue</h2>
 
