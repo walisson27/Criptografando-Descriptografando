@@ -7,4 +7,4 @@ Tecnologias utilizadas no projeto:
 - CSS3
 - Vue.js
 
-- [Link do Projeto](https://criptografar-descriptografar.netlify.app/)
+- [Link do Projeto](https://projetosistemapharma.netlify.app/)
